@@ -20,3 +20,19 @@ To analyze sales performance, identify top-performing products and regions, and 
 -	Which sales representative had the lowest sales performance?
   
 - Dashboard interaction <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Excel-Sales-Analysis%20Dashboard.PNG">View Dashboard</a>
+
+## Process
+-	Reviewed the columns and rows.
+-	Understood what each column represents.
+-	Identified the purpose/objective of the analysis.
+-	Checked for duplicate records.
+-	Standardized texts
+-	Ensured dates, numbers, currency, etc. were in the appropriate formats.
+-	Created calculated fields such as Sales/Revenue, COGS, and Profit.
+-	Extracted the month from the Date column to enable monthly trend and time-series analysis
+-	Created pivot table and charts to answer questions 
+-	Merged all pivot table and charts to one sheet and applied slicers
+-	Created an interactive dashboard 
+
+## Dashboard 
+<img width="1319" height="589" alt="Excel-Sales-Analysis Dashboard" src="https://github.com/user-attachments/assets/f14b5aa2-b738-4e60-a2df-6db3a2fdb79a" />
