@@ -3,9 +3,6 @@
 To analyze sales performance, identify top-performing products and regions, and uncover opportunities to improve revenue and profitability.
 
 ## Dataset used
-- <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Excel_Sales_Analysis%C2%AD.xlsx">Dataset</a>
-
-## Raw Data Used
 - <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Bike_Buyers_Raw_Data.xlsx">Raw Data</a>
 
 ## Questions (KPIs)
