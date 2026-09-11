@@ -5,6 +5,9 @@ To analyze sales performance, identify top-performing products and regions, and 
 ## Dataset used
 - <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Excel_Sales_Analysis%C2%AD.xlsx">Dataset</a>
 
+## Raw Data Used
+- <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Bike_Buyers_Raw_Data.xlsx">Raw Data</a>
+
 ## Questions (KPIs)
 -	What is the total revenue/sales?
 -	What is the total profit?
@@ -19,7 +22,8 @@ To analyze sales performance, identify top-performing products and regions, and 
 -	Which sales representative generated the highest sales?
 -	Which sales representative had the lowest sales performance?
   
-- Dashboard interaction <a href="https://github.com/datawithgift/Excel-Sales-Analysis/blob/main/Excel-Sales-Analysis%20Dashboard.PNG">View Dashboard</a>
+## Dashboard interaction 
+<img width="1280" height="684" alt="Excel_Sales_Analysis_1 xlsx-Excel2026-09-1123-43-37-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a53d75ab-4d15-4280-ba6b-a1d1ecf1602d" />
 
 ## Process
 -	Reviewed the columns and rows.
