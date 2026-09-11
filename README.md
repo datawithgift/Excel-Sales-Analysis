@@ -23,7 +23,7 @@ To analyze sales performance, identify top-performing products and regions, and 
 -	Which sales representative had the lowest sales performance?
   
 ## Dashboard interaction 
-<img width="1280" height="684" alt="Excel_Sales_Analysis_1 xlsx-Excel2026-09-1123-43-37-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a53d75ab-4d15-4280-ba6b-a1d1ecf1602d" />
+<img width="800" height="427" alt="Excel_Sales_Analysis_1 xlsx-Excel2026-09-1123-43-37-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/badfa384-cf14-4202-b0b8-e6aa9911a0fa" />
 
 ## Process
 -	Reviewed the columns and rows.
